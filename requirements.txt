@@ -5,7 +5,6 @@ ultralytics
 Tensorflow
 Pytorch
 scikit-learn
-os
 numpy
 pandas
 streamlit
